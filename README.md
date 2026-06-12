@@ -66,17 +66,12 @@ End-to-end restaurant and delivery platform built for real-world operations.
 **Rails Gym** ·
 Browser-based Rails learning environment with a VS Code-style editor and Docker-isolated RSpec execution on the backend.
 
-[![Source](https://img.shields.io/badge/Source-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/rails-gym)
+[![Source](https://img.shields.io/badge/Source-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Bane-999/rails-gym)
 
 **Watchtower** ·
 Rails gem for automatic exception capture - zero instrumentation, append-only incident records, and a built-in admin dashboard for filtering and resolving errors.
 
-[![Source](https://img.shields.io/badge/Source-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/watchtower)
-
-**Aqualytix** ·
-React Native water intake tracker with SQLite storage, smart reminders, streak tracking, and an animated progress orb that fills as you drink.
-
-[![Source](https://img.shields.io/badge/Source-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/aqualytix)
+[![Source](https://img.shields.io/badge/Source-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Bane-999/watchtower)
 
 ---
 
@@ -87,7 +82,6 @@ React Native water intake tracker with SQLite storage, smart reminders, streak t
 | [ZipLine](case-repo-link) | Local LAN file transfer — QR pairing, no internet, no setup |
 | [Strujomer](live-link) | Electricity bill calculator with Serbian tariff logic |
 | [ASCII File Tree Generator](live-link) | Electricity bill calculator with Serbian tariff logic |
-| [SecureVault](live-link) | A secure Android app that disguises a private photo/video vault as a functional calculator |
 
 ---
 
