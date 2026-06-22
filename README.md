@@ -79,7 +79,7 @@ Rails gem for automatic exception capture - zero instrumentation, append-only in
 
 | Project | Description |
 |---|---|
-| [ZipLine](case-repo-link) | Local LAN file transfer — QR pairing, no internet, no setup |
+| [ZipLine](https://github.com/Bane-999/zipline-docs) | Local LAN file transfer — QR pairing, no internet, no setup |
 | [Strujomer](https://strujomer.netlify.app/) | Electricity bill calculator with Serbian tariff logic |
 | [ASCII File Tree Generator](https://bane-999.github.io/ascii-file-tree-generator/) | Electricity bill calculator with Serbian tariff logic |
 
